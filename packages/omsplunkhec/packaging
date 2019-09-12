@@ -1,0 +1,3 @@
+set -e
+
+cp -a omsplunkhec/* ${BOSH_INSTALL_TARGET}

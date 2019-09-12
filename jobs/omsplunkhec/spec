@@ -1,0 +1,11 @@
+---
+name: omsplunkhec
+
+templates: 
+  omsplunkhec_ctl: bin/omsplunkhec_ctl
+
+packages:
+- omsplunkhec
+
+properties: 
+  

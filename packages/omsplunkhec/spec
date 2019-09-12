@@ -1,0 +1,7 @@
+---
+name: omsplunkhec
+
+dependencies: []
+
+files: 
+- omsplunkhec/*.py
